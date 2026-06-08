@@ -65,7 +65,7 @@ fun WelcomeScreen(
             Image(
                 painter = painterResource(id = R.mipmap.ic_launcher_orbitcycle_foreground),
                 contentDescription = "OrbitCycle Logo",
-                modifier = Modifier.size(220.dp)
+                modifier = Modifier.size(350.dp)
             )
 
             Spacer(modifier = Modifier.weight(1f))
