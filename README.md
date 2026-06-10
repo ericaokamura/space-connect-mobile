@@ -25,7 +25,7 @@ Fornecer uma interface móvel para equipes operacionais e stakeholders acompanha
 1. Clone o repositório:
      git clone https://github.com/ericaokamura/space-connect-mobile
 2. Entre na pasta do projeto:
-     cd OrbitCycle
+     cd space-connect-mobile
 3. Abra no Android Studio (ver abaixo) e aguarde a sincronização/Build do Gradle.
 
 ## Como abrir o projeto no Android Studio
